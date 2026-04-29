@@ -190,5 +190,3 @@ Algumas ideias para evoluir o projeto:
 - Conectar o Load a um banco de dados (SQLite, PostgreSQL)
 
 ---
-
-*Desenvolvido como projeto prático de introdução à Engenharia de Dados.*
